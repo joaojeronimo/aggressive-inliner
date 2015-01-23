@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "Aggressively inline Javascript and CSS in HTML",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "João Jerónimo",
   "license": "ISC",
   "dependencies": {
